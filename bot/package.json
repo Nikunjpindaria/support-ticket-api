@@ -1,0 +1,11 @@
+{
+    "name": "green-square-bot",
+    "version": "1.0.0",
+    "description": "A daily git bot that automatically commits to keep activity squares green.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC"
+}
